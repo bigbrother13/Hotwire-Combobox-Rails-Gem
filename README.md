@@ -1,24 +1,5 @@
-# README
+The Hotwire Combobox Gem is a really cool way to quickly add an autocomplete combobox to your Rails apps.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+How to quickly create a blog and search engine like youtube
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://hotwirecombobox.com/
